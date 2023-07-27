@@ -1,0 +1,6 @@
+num1 = int(input("Digite um valor: "))
+num2 = int(input("Digite outro valor: "))
+num3 = int(input("Digite um outro valor: "))
+num4 = int(input("Digite um outro valor novamente: "))
+subtracao = (num1 - num2 - num3 - num4)
+print(f"O total da subtração entre os valores digitados {num1},{num2},{num3} e {num4}, é de {subtracao}")
